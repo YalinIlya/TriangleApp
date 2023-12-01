@@ -1,6 +1,0 @@
-E:\Projects\TriangleApp\TriangleLib\bin\Debug\TriangleLib.dll
-E:\Projects\TriangleApp\TriangleLib\bin\Debug\TriangleLib.pdb
-E:\Projects\TriangleApp\TriangleLib\obj\Debug\TriangleLib.csprojAssemblyReference.cache
-E:\Projects\TriangleApp\TriangleLib\obj\Debug\TriangleLib.csproj.CoreCompileInputs.cache
-E:\Projects\TriangleApp\TriangleLib\obj\Debug\TriangleLib.dll
-E:\Projects\TriangleApp\TriangleLib\obj\Debug\TriangleLib.pdb
